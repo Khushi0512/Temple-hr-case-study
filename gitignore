@@ -1,0 +1,13 @@
+# datasets — download from source, never commit (licensing + size)
+data_extracted/
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
