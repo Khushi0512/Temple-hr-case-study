@@ -1,4 +1,4 @@
-# datasets — download from source, never commit (licensing + size)
+# datasets — downloaded from source.
 data_extracted/
 *.zip
 
